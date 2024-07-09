@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TableFootball")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+166c388f2b876e0d75449aed406aa19709f5b91b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97403ff799ac73bc33ca0c481f76a1dfc98b7048")]
 [assembly: System.Reflection.AssemblyProductAttribute("TableFootball")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TableFootball")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

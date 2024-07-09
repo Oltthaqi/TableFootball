@@ -2395,11 +2395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\TableFootball\\TableFootball\\TableFootball.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\TableFootball\\TableFootball\\TableFootball.csproj",
       "projectName": "TableFootball",
-      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\TableFootball\\TableFootball\\TableFootball.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\TableFootball\\TableFootball\\TableFootball.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\TableFootball\\TableFootball\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\TableFootball\\TableFootball\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
