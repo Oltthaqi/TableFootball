@@ -1,4 +1,4 @@
-Table Football
+
 Table Football is a simple tool designed to manage and record football match results, including team and player details. It allows users to input match scores and store the results in a SQL Server database.
 
 Features
